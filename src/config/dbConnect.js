@@ -1,6 +1,6 @@
 import mongoose from "mongoose";
 
-mongoose.connect("mongodb+srv://cintia:123@cluster0.6vgzuvr.mongodb.net/?retryWrites=true&w=majority")
+mongoose.connect("*****")
 
 let db = mongoose.connection;
 
